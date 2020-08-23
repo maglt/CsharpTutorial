@@ -1,0 +1,13 @@
+C:\Users\M&R\source\repos\Enumns\Enumns\bin\Debug\netcoreapp3.1\Enumns.exe
+C:\Users\M&R\source\repos\Enumns\Enumns\bin\Debug\netcoreapp3.1\Enumns.deps.json
+C:\Users\M&R\source\repos\Enumns\Enumns\bin\Debug\netcoreapp3.1\Enumns.runtimeconfig.json
+C:\Users\M&R\source\repos\Enumns\Enumns\bin\Debug\netcoreapp3.1\Enumns.runtimeconfig.dev.json
+C:\Users\M&R\source\repos\Enumns\Enumns\bin\Debug\netcoreapp3.1\Enumns.dll
+C:\Users\M&R\source\repos\Enumns\Enumns\bin\Debug\netcoreapp3.1\Enumns.pdb
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.csprojAssemblyReference.cache
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.AssemblyInfoInputs.cache
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.AssemblyInfo.cs
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.csproj.CoreCompileInputs.cache
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.dll
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.pdb
+C:\Users\M&R\source\repos\Enumns\Enumns\obj\Debug\netcoreapp3.1\Enumns.genruntimeconfig.cache

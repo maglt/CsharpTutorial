@@ -1,0 +1,13 @@
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\bin\Debug\netcoreapp3.1\Delegates_Events.exe
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\bin\Debug\netcoreapp3.1\Delegates_Events.deps.json
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\bin\Debug\netcoreapp3.1\Delegates_Events.runtimeconfig.json
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\bin\Debug\netcoreapp3.1\Delegates_Events.runtimeconfig.dev.json
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\bin\Debug\netcoreapp3.1\Delegates_Events.dll
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\bin\Debug\netcoreapp3.1\Delegates_Events.pdb
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.csprojAssemblyReference.cache
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.AssemblyInfoInputs.cache
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.AssemblyInfo.cs
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.csproj.CoreCompileInputs.cache
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.dll
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.pdb
+C:\Users\M&R\source\repos\Delegates\Delegates_Events\obj\Debug\netcoreapp3.1\Delegates_Events.genruntimeconfig.cache

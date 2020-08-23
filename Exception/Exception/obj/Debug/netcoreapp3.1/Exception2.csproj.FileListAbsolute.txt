@@ -1,0 +1,13 @@
+C:\Users\M&R\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception2.exe
+C:\Users\M&R\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception2.deps.json
+C:\Users\M&R\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception2.runtimeconfig.json
+C:\Users\M&R\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception2.runtimeconfig.dev.json
+C:\Users\M&R\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception2.dll
+C:\Users\M&R\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception2.pdb
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.csprojAssemblyReference.cache
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.AssemblyInfoInputs.cache
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.AssemblyInfo.cs
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.csproj.CoreCompileInputs.cache
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.dll
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.pdb
+C:\Users\M&R\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception2.genruntimeconfig.cache

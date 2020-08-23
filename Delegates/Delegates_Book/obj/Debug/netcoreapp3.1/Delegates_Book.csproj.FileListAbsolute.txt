@@ -1,0 +1,13 @@
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\bin\Debug\netcoreapp3.1\Delegates_Book.exe
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\bin\Debug\netcoreapp3.1\Delegates_Book.deps.json
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\bin\Debug\netcoreapp3.1\Delegates_Book.runtimeconfig.json
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\bin\Debug\netcoreapp3.1\Delegates_Book.runtimeconfig.dev.json
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\bin\Debug\netcoreapp3.1\Delegates_Book.dll
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\bin\Debug\netcoreapp3.1\Delegates_Book.pdb
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.csprojAssemblyReference.cache
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.AssemblyInfoInputs.cache
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.AssemblyInfo.cs
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.csproj.CoreCompileInputs.cache
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.dll
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.pdb
+C:\Users\M&R\source\repos\Delegates\Delegates_Book\obj\Debug\netcoreapp3.1\Delegates_Book.genruntimeconfig.cache

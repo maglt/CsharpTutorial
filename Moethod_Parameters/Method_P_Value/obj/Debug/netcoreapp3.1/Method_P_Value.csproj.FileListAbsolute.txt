@@ -1,0 +1,12 @@
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\bin\Debug\netcoreapp3.1\Method_P_Value.exe
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\bin\Debug\netcoreapp3.1\Method_P_Value.deps.json
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\bin\Debug\netcoreapp3.1\Method_P_Value.runtimeconfig.json
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\bin\Debug\netcoreapp3.1\Method_P_Value.runtimeconfig.dev.json
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\bin\Debug\netcoreapp3.1\Method_P_Value.dll
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\bin\Debug\netcoreapp3.1\Method_P_Value.pdb
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\obj\Debug\netcoreapp3.1\Method_P_Value.AssemblyInfoInputs.cache
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\obj\Debug\netcoreapp3.1\Method_P_Value.AssemblyInfo.cs
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\obj\Debug\netcoreapp3.1\Method_P_Value.csproj.CoreCompileInputs.cache
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\obj\Debug\netcoreapp3.1\Method_P_Value.dll
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\obj\Debug\netcoreapp3.1\Method_P_Value.pdb
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_P_Value\obj\Debug\netcoreapp3.1\Method_P_Value.genruntimeconfig.cache

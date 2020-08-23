@@ -1,0 +1,13 @@
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.AssemblyInfoInputs.cache
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.AssemblyInfo.cs
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.csproj.CoreCompileInputs.cache
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\bin\Debug\netcoreapp3.1\Method_Params.exe
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\bin\Debug\netcoreapp3.1\Method_Params.deps.json
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\bin\Debug\netcoreapp3.1\Method_Params.runtimeconfig.json
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\bin\Debug\netcoreapp3.1\Method_Params.runtimeconfig.dev.json
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\bin\Debug\netcoreapp3.1\Method_Params.dll
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\bin\Debug\netcoreapp3.1\Method_Params.pdb
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.dll
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.pdb
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.genruntimeconfig.cache
+C:\Users\M&R\source\repos\Moethod_Parameters\Method_Params\obj\Debug\netcoreapp3.1\Method_Params.csprojAssemblyReference.cache
